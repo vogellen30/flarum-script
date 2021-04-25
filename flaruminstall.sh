@@ -14,7 +14,7 @@ MY_EMAIL=vogellen30@hotmail.com
 DB_NAME=flarum
 DB_PSWD=flarum321
 
-SITES_AVAILABLE='/etc/apache2/sites-available/'
+SITES_AVAILABLE='/etc/nginx/sites-available/'
 
 clear
 
