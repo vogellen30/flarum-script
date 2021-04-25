@@ -9,8 +9,8 @@
 #==============================================================================
 
 #Change below to what you'd like
-MY_DOMAIN_NAME=cheesy.wtf
-MY_EMAIL=nginx@hotmail.com
+MY_DOMAIN_NAME=websitecollabtest.ml
+MY_EMAIL=vogellen30@hotmail.com
 DB_NAME=flarum
 DB_PSWD=flarum321
 
@@ -21,7 +21,7 @@ clear
 echo "***************************************"
 echo "*          Flarum Installer           *"
 echo "*  Should work on any Ubuntu Distro   *"  
-echo "*            By: Nartamus             *"
+echo "*            By: Droeloe Aka Kat      *"
 echo "***************************************"
 
 read -p "Are you sure?(y/n) " -n 1 -r
